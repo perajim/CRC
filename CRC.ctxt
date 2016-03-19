@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=dividendo\ divisor\ auxiliar
+comment0.target=void\ calcularCRC(int[],\ int[],\ int[])
+comment1.params=arreglo\ cadena
+comment1.target=void\ llenarArreglo(int[],\ java.lang.String)
+comment2.params=
+comment2.target=void\ imprimirCeros()
+comment3.params=arreglo\ crc
+comment3.target=void\ llenar(int[],\ java.lang.String)
+comment4.params=arreglo
+comment4.target=void\ asignarCRC(int[])
+comment5.params=arreglo
+comment5.target=void\ imprimir(int[])
+comment6.params=arreglo
+comment6.target=void\ polinomio(int[])
+comment7.params=lk
+comment7.target=void\ convertir(java.lang.String)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

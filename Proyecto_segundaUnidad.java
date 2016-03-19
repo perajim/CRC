@@ -47,12 +47,12 @@ class Proyecto_segundaUnidad
         
         
         String jkl="";
-        for (int i=0;i<largo_p.length-1;i++){
-           int mas= largo_p.length-1;
+        for (int i=largo_p.length-1;i>=0;i--){
+           for(int j =0;j<largo_p.length;j++){
             if(largo_p[i]==1){
-                jkl=jkl+" + x^"+mas--;
+                jkl=jkl+" + x^"+j;
             }
-         
+        }
         }
         System.out.println(jkl);
        
